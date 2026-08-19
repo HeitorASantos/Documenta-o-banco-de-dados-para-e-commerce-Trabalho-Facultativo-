@@ -25,7 +25,7 @@ uma plataforma de e-commerce moderna e robusta. Além disso, contém exercícios
 feitas em diferentes cenários.
 
 ---
-## Modelo Lógico
+##  Modelo Lógico
 <img width="1565" height="748" alt="image" src="https://github.com/user-attachments/assets/8e64bba0-4039-4591-b323-dafba04aba2d" />
 
 ---
@@ -34,7 +34,7 @@ feitas em diferentes cenários.
 
 ---
 ## Modelo Físico
->Para saber mais do modelo físico acessar o documento dentro da pasta Modelagem_BD2S.zip
+>Para saber mais do modelo físico acessar o BD__PJBL_COMPLETO_.pdf
 ---
 ## 🛠️ Tecnologias e Ferramentas
 * **SGBD Alvo:** MySQL
@@ -50,11 +50,10 @@ feitas em diferentes cenários.
 
 ## 😀 Considerações Finais 
 
-Esse trabalho durou todo o semestre, foi cansativo, estressante e motivo de discussões. Entretanto, acredito que tenha sido muito proveitoso,
-uma vez que nos fez aprender a trabalhar melhor em equipe, saber escutar a opinião do companheiro e desenvolver as nossas habilidades envolvendo
-banco de dados. Além disso, fico contente com o resultado do nosso projeto, foi gratificante aprimorar ao máximo e ver ele se desenvolvendo desde o início até
-a versão final. Dessa forma, espero ansiosamente poder fazer outros trabalhos como esse no futuro.
+Esse trabalho durou todo o semestre e, apesar de ter sido cansativo e estressante, foi uma experiência muito proveitosa. Aprendemos a trabalhar melhor em equipe, ouvir diferentes opiniões e aprimorar nossas habilidades com banco de dados. Fico muito satisfeito com o resultado final e foi gratificante acompanhar a evolução do projeto desde o início. Espero poder participar de outros trabalhos como esse no futuro.
 
-## 📂 Arquivos do Repositório
-> 📄 [Documentação Completa em PDF]
+--
+
+## 📂 Documentação completa em PDF
+> 📄 https://github.com/HeitorASantos/Documenta-o-banco-de-dados-para-e-commerce-Trabalho-Facultativo-/blob/main/BD___PJBL_COMPLETO_.pdf
 
