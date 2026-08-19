@@ -43,7 +43,7 @@ feitas em diferentes cenários.
 ---
 
 ## 📜 Regras de Negócio Destacadas
-* **Pedidos e Clientes:** Um cliente pode realizar múltiplos pedidos, mas cada pedido pertence estritamente a um único cliente.
+* **Conta e Pedidos** Uma conta pode fazer nenhum ou vários pedidos e cada pedido é feito por exatamente uma conta.
 * **Estoque e Produtos:** Os produtos possuem controle de estoque centralizado com integridade referencial para evitar vendas sem disponibilidade.
 * **Integridade:** Uso estrito de restrições (`FOREIGN KEY`, `NOT NULL`, `UNIQUE`) para garantir a consistência dos dados em cenários transacionais.
 ---
